@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hai
+- 👀 I’m interested in u <3
+- 🌱 I’m currently learning code
+- 💞️ I'm looking to collaborate with Tesla
+- 📫 Contact me on my email: mrth1503@gmail.com
