@@ -11,7 +11,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ---
 
-## 🛠 TECHNICAL EXPERTISE
+## 🛠 Technical Expertise
 
 🏭Industrial Automation & Control
 
