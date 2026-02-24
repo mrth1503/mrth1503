@@ -3,7 +3,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
  📌About Me
 
-- Education: Mechatronics Engineering student graduating from TDTU (Engineering Degree).
+- Education: Mechatronics Engineering student graduating from [TDTU](https://www.tdtu.edu.vn/) (Engineering Degree).
 
 - Current Focus: Industrial Automation, Robotics, IoT, and Embedded Systems.
 
