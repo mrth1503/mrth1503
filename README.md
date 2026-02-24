@@ -21,7 +21,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - Industrial Protocols: PROFINET, Ethernet/IP.
   
-💻📏Design
+⚙️Design
   
 - 3D Modeling: SolidWorks, AutoCAD.
   
