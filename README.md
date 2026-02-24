@@ -39,7 +39,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ---
 
-## 🚀 Graduation Project
+## 🚀 [Graduation Project](https://github.com/mrth1503/Graduation-Project)
 
 📦 Automatic Box Folding Machine
 
