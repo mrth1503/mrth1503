@@ -35,15 +35,22 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Graduation Project
 
-📦 Automatic Box Folding Machine |
-| :--- |
-| > **Industrial automation solution for high-speed and precise cardboard packaging.** |
-| To address manual labor inefficiencies, I designed and built this system to automate the entire folding process, integrating complex mechanical movements with real-time PLC control. |
-| - 🏗️ **Mechanical Design** — Fully modeled and assembled in **SolidWorks** for structural integrity. |
-| - ⚙️ **Control Logic** — Developed using **TIA Portal** for a **Siemens S7-1200 (1214C DC/DC/DC)**. |
-| - 🔌 **System Integration** — Implementing seamless communication with industrial sensors and actuators. |
-| - 🛡️ **Efficiency** — Focused on reducing cycle time and ensuring consistent folding quality. |
-| **Built with Siemens + SolidWorks + C** |
-| [ ![Download](https://img.shields.io/badge/DOWNLOAD-gray?style=for-the-badge&logo=github&logoColor=white) ](your-link) [ ![Latest Release](https://img.shields.io/badge/LATEST_RELEASE-green?style=for-the-badge) ](your-link) <br> ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=siemens&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-DC333B?style=flat-square&logo=solidworks&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+📦 Automatic Box Folding Machine
+
+This is my graduation project, a carton folding machine model designed to fold pre-cut cardboard blanks. The system automates the entire process, including blank feeding, folding, and ejecting the finished products.
+
+What I did:
+
+- Developed the system concept and designed the overall mechanical and control model.
+
+- Used EPLAN to design electrical schematics and control panel drawings.
+
+- Used AutoCAD Electrical to design the electrical cabinet layout.
+
+- Programmed and controlled the system using Siemens S7-1200 PLC.
+
+- Designed and developed the HMI interface for system monitoring and control.
+
+More details can be found in the Pinned section below.
