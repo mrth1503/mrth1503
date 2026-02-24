@@ -11,7 +11,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ---
 
-🛠 TECHNICAL EXPERTISE:
+## 🛠 TECHNICAL EXPERTISE
 
 🏭Industrial Automation & Control
 
@@ -49,7 +49,7 @@ What I did:
 
 - Used AutoCAD Electrical to design the electrical cabinet layout.
 
-- Programmed and controlled the system using Siemens S7-1200 PLC.
+- Programmed and controlled the system using PLC Siemens S7-1200.
 
 - Designed and developed the HMI interface for system monitoring and control.
 
