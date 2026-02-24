@@ -23,13 +23,17 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 ⚙️Design
   
-- 3D Modeling: SolidWorks, AutoCAD.
+- 3D Modeling: SolidWorks, Inventor, AutoCAD.
+
+- Manufacturing: MasterCam.
   
 - Simulation: MATLAB, Proteus.
 
 💻Programming & Embedded Systems
   
 - Languages: C, Python.
+
+- Performed CNC turning and milling programming using Mastercam/Cimco Edit.
   
 - Microcontrollers: Arduino, ESP32.
 
