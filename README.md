@@ -3,18 +3,16 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 🚀 About Me
 
-🎓 Education: Mechatronics Engineering student graduating from TDTU (Engineering Degree).
+🎓Education: Mechatronics Engineering student graduating from TDTU (Engineering Degree).
 
-🛠️ Current Focus: .
+🛠️ Current Focus: Industrial Automation, Robotics, IoT, and Embedded Systems.
 
-💡 Interests: Industrial Automation, Robotics, IoT, and Embedded Systems.
-
-🗣️ Languages: Vietnamese (Native), English (Normal).
+🗣️ Languages: Vietnamese (Native), English (B1 CAMBRIDGE).
 
 
-🛠 Technical Expertise
+🛠 TECHNICAL EXPERTISE:
 
-🏭Industrial Automation & Control:
+🏭Industrial Automation & Control
 
 ▪️PLC Programming: Siemens(LAD).
   
@@ -22,13 +20,13 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 ▪️Industrial Protocols: PROFINET, Ethernet/IP.
   
-💻📏Design:
+💻📏Design
   
 ▪️3D Modeling: SolidWorks, AutoCAD.
   
 ▪️Simulation: MATLAB, Proteus.
 
-💻Programming & Embedded Systems:
+💻Programming & Embedded Systems
   
 ▪️Languages: C, Python.
   
