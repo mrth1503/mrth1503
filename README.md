@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
- 📌About Me
+ ## 📌 About Me
 
 - Education: Mechatronics Engineering student graduating from [TDTU](https://www.tdtu.edu.vn/) (Engineering Degree).
 
@@ -21,7 +21,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - Industrial Protocols: PROFINET, Ethernet/IP.
   
-⚙️Design
+## ⚙️ Design
   
 - 3D Modeling: SolidWorks, Inventor, AutoCAD.
 
@@ -29,7 +29,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - Simulation: MATLAB, Proteus.
 
-💻Programming & Embedded Systems
+## 💻 Programming & Embedded Systems
   
 - Languages: C, Python.
 
