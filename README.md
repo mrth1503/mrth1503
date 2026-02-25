@@ -13,7 +13,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ## 🛠 Technical Expertise
 
-🏭 Industrial Automation & Control
+### 🏭 Industrial Automation & Control
 
 - PLC Programming: Siemens(LAD).
   
@@ -21,7 +21,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - Industrial Protocols: PROFINET, Ethernet/IP.
   
-⚙️ Design
+### ⚙️ Design
   
 - 3D Modeling: SolidWorks, Inventor, AutoCAD.
 
@@ -29,7 +29,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - Simulation: MATLAB, Proteus.
 
-💻 Programming & Embedded Systems
+### 💻 Programming & Embedded Systems
   
 - Languages: C, Python.
 
