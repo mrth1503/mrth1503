@@ -25,6 +25,8 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - 3D Modeling: SolidWorks, Inventor, AutoCAD.
 
+- Electrical circuit and control panel design: EPLAN, AutoCAD Electrical
+
 - Manufacturing: MasterCam.
   
 - Simulation: MATLAB, Proteus.
