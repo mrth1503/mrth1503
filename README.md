@@ -25,7 +25,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
   
 - 3D Modeling: SolidWorks, Inventor, AutoCAD.
 
-- Electrical circuit and control panel design: EPLAN, AutoCAD Electrical
+- Electrical circuit and control panel design: EPLAN, AutoCAD Electrical.
 
 - Manufacturing: MasterCam.
   
@@ -59,4 +59,4 @@ What I did:
 
 - Designed and developed the HMI interface for system monitoring and control.
 
-More details can be found in the Pinned section below.
+📂 More details can be found in the Pinned section below.⤵️
