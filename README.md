@@ -43,7 +43,7 @@ I'm Vien Dinh Thanh Hai, a Mechatronics Engineer based in HCMC.
 
 ## 🚀 [Graduation Project](https://github.com/mrth1503/Graduation-Project)
 
-📦 Automatic Box Folding Machine (Final Grade: 8.6/10)
+📦 Automatic Box Folding Machine (Final Score: 8.6/10)
 
 This is my graduation project, a carton folding machine model designed to fold pre-cut cardboard blanks. The system automates the entire process, including blank feeding, folding, and ejecting the finished products.
 
